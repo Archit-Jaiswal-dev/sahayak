@@ -1,0 +1,325 @@
+{
+  "source": "pgportal.gov.in #moreOrg (2026-08-14)",
+  "ministries": [
+    {
+      "value": "DOAAC",
+      "label": "Agriculture and Farmers Welfare"
+    },
+    {
+      "value": "DOARE",
+      "label": "Agriculture Research and Education"
+    },
+    {
+      "value": "DOAHD",
+      "label": "Animal Husbandry, Dairying"
+    },
+    {
+      "value": "DATOM",
+      "label": "Atomic Energy"
+    },
+    {
+      "value": "AYUSH",
+      "label": "Ayush"
+    },
+    {
+      "value": "DBIOT",
+      "label": "Bio Technology"
+    },
+    {
+      "value": "CBOEC",
+      "label": "Central Board of Excise and Customs"
+    },
+    {
+      "value": "DOCPC",
+      "label": "Chemicals and Petrochemicals"
+    },
+    {
+      "value": "MOCAV",
+      "label": "Civil Aviation"
+    },
+    {
+      "value": "MCOAL",
+      "label": "Coal"
+    },
+    {
+      "value": "DOCOM",
+      "label": "Commerce"
+    },
+    {
+      "value": "DOCAF",
+      "label": "Consumer Affairs"
+    },
+    {
+      "value": "MOCOP",
+      "label": "Cooperation"
+    },
+    {
+      "value": "DCOYA",
+      "label": "Corporate Affairs"
+    },
+    {
+      "value": "DCLTR",
+      "label": "Culture"
+    },
+    {
+      "value": "MODEF",
+      "label": "Defence"
+    },
+    {
+      "value": "FADSS",
+      "label": "Defence Finance"
+    },
+    {
+      "value": "DDPRO",
+      "label": "Defence Production"
+    },
+    {
+      "value": "DDRDO",
+      "label": "Defence Research and Development"
+    },
+    {
+      "value": "DONER",
+      "label": "Development of North Eastern Region"
+    },
+    {
+      "value": "DODWS",
+      "label": "Drinking Water and Sanitation"
+    },
+    {
+      "value": "DOCND",
+      "label": "Earth Sciences"
+    },
+    {
+      "value": "DOEAF",
+      "label": "Economic Affairs"
+    },
+    {
+      "value": "MINIT",
+      "label": "Electronics & Information Technology"
+    },
+    {
+      "value": "DODAF",
+      "label": "Empowerment of Persons with Disabilities"
+    },
+    {
+      "value": "MOEAF",
+      "label": "Environment, Forest and Climate Change"
+    },
+    {
+      "value": "DDESW",
+      "label": "Ex Servicemen Welfare"
+    },
+    {
+      "value": "DOEXP",
+      "label": "Expenditure"
+    },
+    {
+      "value": "MEAPD",
+      "label": "External Affairs"
+    },
+    {
+      "value": "DOFZR",
+      "label": "Fertilizers"
+    },
+    {
+      "value": "DEAPR",
+      "label": "Financial Services (Pension Reforms)"
+    },
+    {
+      "value": "DFSHR",
+      "label": "Fisheries"
+    },
+    {
+      "value": "DOFPD",
+      "label": "Food and Public Distribution"
+    },
+    {
+      "value": "DOFPI",
+      "label": "Food Processing Industries"
+    },
+    {
+      "value": "DHRES",
+      "label": "Health Research"
+    },
+    {
+      "value": "DHIND",
+      "label": "Heavy Industry"
+    },
+    {
+      "value": "DSEHE",
+      "label": "Higher Education"
+    },
+    {
+      "value": "MOIAB",
+      "label": "Information and Broadcasting"
+    },
+    {
+      "value": "DODIV",
+      "label": "Investment & Public Asset Management"
+    },
+    {
+      "value": "DEPOJ",
+      "label": "Justice"
+    },
+    {
+      "value": "DOLDR",
+      "label": "Land Resources"
+    },
+    {
+      "value": "DLGLA",
+      "label": "Legal Affairs"
+    },
+    {
+      "value": "LGVED",
+      "label": "Legislative Department"
+    },
+    {
+      "value": "MMSME",
+      "label": "Micro Small and Medium Enterprises"
+    },
+    {
+      "value": "DMAFF",
+      "label": "Military Affairs"
+    },
+    {
+      "value": "MMINE",
+      "label": "Mines"
+    },
+    {
+      "value": "MOMAF",
+      "label": "Minority Affairs"
+    },
+    {
+      "value": "MONRE",
+      "label": "New and Renewable Energy"
+    },
+    {
+      "value": "DPLNG",
+      "label": "NITI Aayog"
+    },
+    {
+      "value": "CAGAO",
+      "label": "O/o the Comptroller & Auditor General of India"
+    },
+    {
+      "value": "JSOLD",
+      "label": "Official Language"
+    },
+    {
+      "value": "MOPRJ",
+      "label": "Panchayati Raj"
+    },
+    {
+      "value": "MINPA",
+      "label": "Parliamentary Affairs"
+    },
+    {
+      "value": "MPANG",
+      "label": "Petroleum and Natural Gas"
+    },
+    {
+      "value": "DPHAM",
+      "label": "Pharmaceutical"
+    },
+    {
+      "value": "MPOWR",
+      "label": "Power"
+    },
+    {
+      "value": "DOIPP",
+      "label": "Promotion of Industry and Internal Trade"
+    },
+    {
+      "value": "DPUBE",
+      "label": "Public Enterprises"
+    },
+    {
+      "value": "MORLY",
+      "label": "Railways, ( Railway Board)"
+    },
+    {
+      "value": "DORVU",
+      "label": "Revenue"
+    },
+    {
+      "value": "MORTH",
+      "label": "Road Transport and Highways"
+    },
+    {
+      "value": "DORLD",
+      "label": "Rural Development"
+    },
+    {
+      "value": "DOSEL",
+      "label": "School Education and Literacy"
+    },
+    {
+      "value": "DOSAT",
+      "label": "Science and Technology"
+    },
+    {
+      "value": "DOSIR",
+      "label": "Scientific & Industrial Research"
+    },
+    {
+      "value": "MSHPG",
+      "label": "Shipping"
+    },
+    {
+      "value": "DOSKD",
+      "label": "Skill Development and Entrepreneurship"
+    },
+    {
+      "value": "MOSJE",
+      "label": "Social Justice and Empowerment"
+    },
+    {
+      "value": "DSPAC",
+      "label": "Space"
+    },
+    {
+      "value": "DSPRT",
+      "label": "Sports"
+    },
+    {
+      "value": "MOSPI",
+      "label": "Statistics and Programme Implementation"
+    },
+    {
+      "value": "MOSTL",
+      "label": "Steel"
+    },
+    {
+      "value": "MTXTL",
+      "label": "Textiles"
+    },
+    {
+      "value": "DTOUR",
+      "label": "Tourism"
+    },
+    {
+      "value": "MTRBL",
+      "label": "Tribal Affairs"
+    },
+    {
+      "value": "UIDAI",
+      "label": "Unique Identification Authority of India"
+    },
+    {
+      "value": "MINWR",
+      "label": "Water Resources, River Development & Ganga Rejuvenuation,"
+    },
+    {
+      "value": "DOWCD",
+      "label": "Women and Child Development"
+    },
+    {
+      "value": "MOYAS",
+      "label": "Youth Affairs"
+    },
+    {
+      "value": "OTHER",
+      "label": "State Governments/Others"
+    }
+  ]
+}

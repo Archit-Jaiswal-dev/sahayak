@@ -1,0 +1,53 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+
+# Runtime data (encrypted, per-deployment)
+data/sessions/
+data/credentials/
+data/watchdog/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+*.wav
+*.mp3
+
+# Build artifacts
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# Mobile app
+mobile/build/
+mobile/.dart_tool/
+mobile/.pub-cache/
+mobile/.packages
+
+# Playwright
+.playwright/
+
+# Node (if any)
+node_modules/
